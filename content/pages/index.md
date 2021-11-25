@@ -287,7 +287,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-a
-    title: BETTER COLLABORATIOn
+    title: BETTER COLLABORATION
     subtitle: ''
     text: >-
       One platform, one community, getting to the bottom line of everything
