@@ -374,7 +374,7 @@ sections:
     title: SOUNDS INTERESTING? TALK TO US!
     subtitle: ''
     text: |
-      #### hello@diversion.dev
+      ##### hello@diversion.dev
     styles:
       self:
         height: auto
