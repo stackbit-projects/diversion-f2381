@@ -202,7 +202,7 @@ sections:
       type: ImageBlock
   - elementId: ''
     colors: colors-a
-    title: Love where you work
+    title: INFINITELY SCALABLE
     subtitle: ''
     text: >-
       One platform, one community, getting to the bottom line of everything
