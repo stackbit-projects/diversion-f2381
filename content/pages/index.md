@@ -157,7 +157,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-a
-    title: Where did everyone go?
+    title: COMPATIBLE WITH GIT
     text: >
       Learn how top tech companies have learned working remote using our
       product.
