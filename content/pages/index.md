@@ -88,9 +88,6 @@ sections:
         label: Sign Up
         url: /
         style: primary
-    media:
-      type: ImageBlock
-      altText: Hero image
     backgroundImage: {}
     styles:
       self:
