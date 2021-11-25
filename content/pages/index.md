@@ -210,11 +210,7 @@ sections:
       anything you want inside a Diversion repository: multiple projects, large
       graphical assets, AI models and training data… You are not limited by what
       your local storage can handle, and by local repository processing speeds.
-    actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/Screen Shot 2021-11-24 at 10.18.54 PM.png
