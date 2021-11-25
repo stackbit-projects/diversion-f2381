@@ -44,10 +44,6 @@ sections:
       employment.  Figure out your benefits, practice for interviews, get
       mentored, help peers, get helped in return.
     actions: []
-    media:
-      type: ImageBlock
-      altText: Image alt text
-      caption: Image caption
     styles:
       self:
         height: auto
