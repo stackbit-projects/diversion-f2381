@@ -66,7 +66,7 @@
             "type": "ImageBlock",
             "url": "/images/Diversion-logo.png"
         },
-        "copyrightText": "Powered by Stackbit",
+        "copyrightText": "[Built with Stackbit](www.stackbit.com)\n",
         "primaryLinks": [],
         "socialLinks": [],
         "legalLinks": [],
