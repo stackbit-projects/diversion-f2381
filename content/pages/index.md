@@ -83,7 +83,6 @@ sections:
       type: ImageBlock
       url: /images/lego-cloud-berry-minifigure-25-right.jpg
       altText: Hero image
-    backgroundImage: {}
     styles:
       self:
         height: auto
