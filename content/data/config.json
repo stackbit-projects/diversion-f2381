@@ -69,13 +69,7 @@
         "copyrightText": "Powered by Stackbit",
         "primaryLinks": [],
         "socialLinks": [],
-        "legalLinks": [
-            {
-                "type": "Link",
-                "label": "Terms & Conditions",
-                "url": "/"
-            }
-        ],
+        "legalLinks": [],
         "styles": {
             "self": {
                 "width": "narrow",
