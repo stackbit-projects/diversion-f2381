@@ -289,10 +289,12 @@ sections:
     colors: colors-a
     title: BETTER COLLABORATION
     subtitle: ''
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: >
+      Wouldn’t you like to prevent those annoying merge conflicts before they
+      happen? Or share your work-in-progress code simply by sending a link to
+      your colleague - just like with Google Docs? Give and receive feedback
+      easily with notes attached to the code? Having your code in the cloud
+      unlocks better collaboration opportunities for everybody.
     actions:
       - type: Button
         label: Sign Up
