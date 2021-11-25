@@ -370,7 +370,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-e
     title: SOUNDS INTERESTING? TALK TO US!
     subtitle: ''
     text: |
