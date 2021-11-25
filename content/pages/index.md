@@ -395,6 +395,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
+        borderStyle: solid
       title:
         textAlign: left
       subtitle:
