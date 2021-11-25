@@ -215,8 +215,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: >-
-        /images/RNNVovrSsfOOgd9PwEdmwkyqRBNJRmTY8GsIifEtC2pTTGcwkPRzR7HIw6nyL9dGbpxhgDr6Ovq7ggoNPY4QTjj46lzUveHGd7OjLgU=s2048.png
+      url: /images/Screen Shot 2021-11-24 at 10.18.54 PM.png
       altText: Hero image
     backgroundImage: {}
     styles:
