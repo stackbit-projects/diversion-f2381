@@ -42,7 +42,7 @@ sections:
         textAlign: left
     type: QuoteSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-e
     title: Diversion
     subtitle: ''
     text: |
