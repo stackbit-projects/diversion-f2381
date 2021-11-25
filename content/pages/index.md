@@ -125,7 +125,8 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: >-
+        /images/Keeping-Containers-Secure-and-how-the-cloud-can-help-purple-tint.png
       altText: Hero image
     backgroundImage: {}
     styles:
