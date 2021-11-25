@@ -69,10 +69,15 @@ sections:
     colors: colors-a
     title: EASY AND FUN TO USE
     subtitle: ''
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: >
+      Diversion is for everybody. We believe that you don’t need to read a book
+      just to use version control. Diversion has an intuitive interface that
+      gives you everything you need without looking up commands or using cheat
+      sheets. Focus on your code, not on your SCM.
+
+
+
+      Diversion works with any IDE.
     actions:
       - type: Button
         label: Sign Up
