@@ -11,7 +11,7 @@
                 "type": "Button",
                 "label": "Contact Us",
                 "url": "mailto:hello@diversion.dev",
-                "altText": "Sign up",
+                "altText": "contact",
                 "style": "primary"
             }
         ],
