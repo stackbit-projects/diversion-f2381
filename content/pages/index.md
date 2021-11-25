@@ -3,7 +3,7 @@ title: Home
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-e
+    colors: colors-g
     title: Diversion
     subtitle: ''
     text: |
