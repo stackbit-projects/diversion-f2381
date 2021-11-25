@@ -340,7 +340,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: /images/lock-unlock-icon-17.png
       altText: Hero image
     backgroundImage: {}
     styles:
