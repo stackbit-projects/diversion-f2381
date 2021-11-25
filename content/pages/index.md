@@ -337,10 +337,7 @@ sections:
       source. We encourage all developers to contribute feedback, feature
       requests and code (core and plugins). We will always host open source
       projects for free.
-    actions:
-      - type: Link
-        label: Learn More
-        url: /
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero-1.png
