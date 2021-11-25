@@ -254,10 +254,6 @@ sections:
       plugins run on our serverless platform. We’ll worry about it, so you don’t
       have to.
     actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
       - type: Link
         label: Learn More
         url: /
