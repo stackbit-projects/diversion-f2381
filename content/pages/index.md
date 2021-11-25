@@ -163,10 +163,6 @@ sections:
       product.
     actions:
       - type: Button
-        label: Sign Up
-        url: /
-        style: secondary
-      - type: Button
         label: Watch Video
         url: /
         style: link
