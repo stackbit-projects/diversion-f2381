@@ -10,7 +10,7 @@
             {
                 "type": "Button",
                 "label": "Contact Us",
-                "url": "mailto",
+                "url": "mailto:",
                 "altText": "Sign up",
                 "style": "primary"
             }
