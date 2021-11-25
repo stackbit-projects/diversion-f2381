@@ -51,35 +51,5 @@
             "type": "ImageBlock",
             "url": "/images/Diversion-logo.png"
         }
-    },
-    "footer": {
-        "colors": "colors-b",
-        "logo": {
-            "altText": "altText of the image",
-            "caption": "Caption of the image",
-            "elementId": "",
-            "styles": {
-                "self": {
-                    "opacity": 100
-                }
-            },
-            "type": "ImageBlock",
-            "url": "/images/Diversion-logo.png"
-        },
-        "copyrightText": "Built with Stackbit\n",
-        "primaryLinks": [],
-        "socialLinks": [],
-        "legalLinks": [],
-        "styles": {
-            "self": {
-                "width": "narrow",
-                "padding": [
-                    "pt-16",
-                    "pb-16",
-                    "pr-4",
-                    "pl-4"
-                ]
-            }
-        }
     }
 }
