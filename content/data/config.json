@@ -7,7 +7,7 @@
         "isTitleVisible": true,
         "primaryLinks": [
             {
-                "label": "Bloh",
+                "label": "Blog",
                 "altText": "Blog",
                 "url": "/blog",
                 "showIcon": false,
