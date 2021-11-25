@@ -253,10 +253,7 @@ sections:
       automations on your code. No need to manage Jenkins instances - your
       plugins run on our serverless platform. We’ll worry about it, so you don’t
       have to.
-    actions:
-      - type: Link
-        label: Learn More
-        url: /
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero-1.png
