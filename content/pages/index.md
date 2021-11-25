@@ -159,8 +159,11 @@ sections:
     colors: colors-a
     title: COMPATIBLE WITH GIT
     text: >
-      Learn how top tech companies have learned working remote using our
-      product.
+      We know, we know - everybody works with Git. And it’s fine - Diversion
+      does, too! You can seamlessly synchronize Diversion with your repo on
+      Github, Gitlab or BitBucket; use “git clone” with Diversion to get a
+      git-formatted repo; and even use git commands on a Diversion repo, if you
+      want. So all your devops integrations will work as before.
     actions: []
     styles:
       self:
