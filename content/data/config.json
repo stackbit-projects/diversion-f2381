@@ -5,7 +5,18 @@
         "primaryColors": "colors-a",
         "secondaryColors": "colors-f",
         "isTitleVisible": true,
-        "primaryLinks": [],
+        "primaryLinks": [
+            {
+                "label": "Learn more",
+                "altText": "Learn more",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            }
+        ],
         "secondaryLinks": [
             {
                 "type": "Button",
