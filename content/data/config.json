@@ -76,15 +76,7 @@
         },
         "copyrightText": "Powered by Stackbit",
         "primaryLinks": [],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Instagram",
-                "url": "/",
-                "showIcon": true,
-                "icon": "instagram"
-            }
-        ],
+        "socialLinks": [],
         "legalLinks": [
             {
                 "type": "Link",
