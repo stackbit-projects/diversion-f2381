@@ -22,7 +22,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Sign up",
+                "label": "Contact Us",
                 "url": "/",
                 "altText": "Sign up",
                 "style": "primary"
