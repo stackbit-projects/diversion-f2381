@@ -256,7 +256,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: /images/Screen Shot 2021-11-24 at 9.47.06 PM.png
       altText: Hero image
     backgroundImage: {}
     styles:
