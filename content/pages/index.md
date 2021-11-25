@@ -328,7 +328,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    colors: colors-h
+    colors: colors-a
     title: OPEN SOURCE
     subtitle: ''
     text: >
