@@ -371,7 +371,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-a
-    title: The Section Title
+    title: SOUNDS INTERESTING? TALK TO US!
     subtitle: ''
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
