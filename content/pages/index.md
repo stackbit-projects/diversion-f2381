@@ -46,7 +46,7 @@ sections:
     title: Diversion
     subtitle: ''
     text: |
-      #### Source Code Management that Works for You
+      ### Source Code Management that Works for You
     styles:
       self:
         height: auto
