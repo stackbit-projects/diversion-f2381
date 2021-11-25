@@ -295,11 +295,7 @@ sections:
       your colleague - just like with Google Docs? Give and receive feedback
       easily with notes attached to the code? Having your code in the cloud
       unlocks better collaboration opportunities for everybody.
-    actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero-1.png
