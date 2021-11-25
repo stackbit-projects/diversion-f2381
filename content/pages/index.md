@@ -338,10 +338,6 @@ sections:
       requests and code (core and plugins). We will always host open source
       projects for free.
     actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
       - type: Link
         label: Learn More
         url: /
