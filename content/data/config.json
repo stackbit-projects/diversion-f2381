@@ -5,14 +5,7 @@
         "primaryColors": "colors-a",
         "secondaryColors": "colors-f",
         "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Home",
-                "url": "/",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "secondaryLinks": [
             {
                 "type": "Button",
