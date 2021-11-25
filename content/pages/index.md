@@ -78,11 +78,7 @@ sections:
 
 
       Diversion works with any IDE.
-    actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/lego-cloud-berry-minifigure-25-right.jpg
