@@ -246,10 +246,13 @@ sections:
     colors: colors-h
     title: POWERFUL AND CUSTOMIZABLE
     subtitle: ''
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: >
+      With easy to write plugins, meta-data and integrations Diversion is the
+      most versatile and powerful SCM ever created. You can create your own
+      org-wide plugins that magically run in the cloud and perform DevOps
+      automations on your code. No need to manage Jenkins instances - your
+      plugins run on our serverless platform. We’ll worry about it, so you don’t
+      have to.
     actions:
       - type: Button
         label: Sign Up
