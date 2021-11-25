@@ -244,7 +244,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-h
-    title: Love where you work
+    title: POWERFUL AND CUSTOMIZABLE
     subtitle: ''
     text: >-
       One platform, one community, getting to the bottom line of everything
