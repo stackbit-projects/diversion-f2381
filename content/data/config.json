@@ -9,7 +9,7 @@
             {
                 "label": "Bloh",
                 "altText": "Learn more",
-                "url": "/",
+                "url": "/blog",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
