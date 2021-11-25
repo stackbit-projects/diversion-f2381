@@ -204,10 +204,12 @@ sections:
     colors: colors-a
     title: INFINITELY SCALABLE
     subtitle: ''
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: >
+      A huge mono-repo? Bring it on. Large binary files? No problem! Diversion
+      can handle it with infinite scalability of the cloud. You can store
+      anything you want inside a Diversion repository: multiple projects, large
+      graphical assets, AI models and training data… You are not limited by what
+      your local storage can handle, and by local repository processing speeds.
     actions:
       - type: Button
         label: Sign Up
