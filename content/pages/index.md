@@ -114,10 +114,14 @@ sections:
     colors: colors-a
     title: BUILT FOR THE CLOUD AND CONTAINERS
     subtitle: ''
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: >
+      If you run your code in containers or cloud environments - Diversion is
+      the tool for you. Diversion’s repository and your workspace reside in the
+      cloud - only bringing the files you need into the container, quickly and
+      efficiently. Your work-in-progress files are magically synchronized
+      between work environments. No more cloning repositories on container
+      startup, scripts synchronizing files between your local machine and the
+      cloud, or losing your uncommitted files. 
     actions:
       - type: Button
         label: Sign Up
