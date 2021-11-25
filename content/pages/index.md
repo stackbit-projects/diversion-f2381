@@ -331,10 +331,12 @@ sections:
     colors: colors-h
     title: OPEN SOURCE
     subtitle: ''
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: >
+      We believe in creating positive feedback loops by giving the code to the
+      community. Diversion is an open source project, and will always be open
+      source. We encourage all developers to contribute feedback, feature
+      requests and code (core and plugins). We will always host open source
+      projects for free.
     actions:
       - type: Button
         label: Sign Up
