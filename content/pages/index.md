@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-e
-    title: Diversion
+    title: DIVERSION
     subtitle: ''
     text: |
       ### Source Code Management that Works for You
