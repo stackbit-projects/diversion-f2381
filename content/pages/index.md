@@ -80,7 +80,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: /images/lego-cloud-berry-minifigure-25-right.jpg
       altText: Hero image
     backgroundImage: {}
     styles:
