@@ -67,7 +67,7 @@ sections:
     type: TextSection
   - elementId: ''
     colors: colors-a
-    title: Love where you work
+    title: EASY AND FUN TO USE
     subtitle: ''
     text: >-
       One platform, one community, getting to the bottom line of everything
