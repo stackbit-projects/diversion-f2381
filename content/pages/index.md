@@ -396,6 +396,7 @@ sections:
         justifyContent: center
         flexDirection: row
         borderStyle: solid
+        borderWidth: 1
       title:
         textAlign: left
       subtitle:
