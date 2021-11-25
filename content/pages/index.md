@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-a
-    title: The Section Title
+    title: WHAT IS DIVERSION?
     subtitle: ''
     text: >
       Diversion is a **next-generation **code management system. Built
