@@ -66,7 +66,7 @@ sections:
         textAlign: center
     type: TextSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-e
     title: EASY AND FUN TO USE
     subtitle: ''
     text: >
