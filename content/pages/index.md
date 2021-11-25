@@ -43,12 +43,7 @@ sections:
       One platform, one community, getting to the bottom line of everything
       employment.  Figure out your benefits, practice for interviews, get
       mentored, help peers, get helped in return.
-    actions:
-      - type: Button
-        label: Sign up
-        url: 'https://www.stackbit.com/'
-        style: primary
-        elementId: hero-main-button
+    actions: []
     media:
       type: ImageBlock
       altText: Image alt text
