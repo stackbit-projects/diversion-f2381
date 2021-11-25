@@ -6,13 +6,15 @@ sections:
     colors: colors-a
     title: The Section Title
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      Diversion is a **next-generation **code management system. Built
+      **entirely in the cloud**, it unlocks new possibilities for **scale,
+      collaboration **and **DevOps **integrations. It provides an efficient and
+      quick way to work with **cloud **and **container **environments, all with
+      an **easy and intuitive** interface - allowing you to **focus on your
+      code**. It works with the **current workflows** - branches, commits and
+      PRs, and is entirely **compatible **with your current **Git
+      repositories**.
     styles:
       self:
         height: auto
