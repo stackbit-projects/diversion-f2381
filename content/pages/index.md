@@ -122,11 +122,7 @@ sections:
       between work environments. No more cloning repositories on container
       startup, scripts synchronizing files between your local machine and the
       cloud, or losing your uncommitted files. 
-    actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero-1.png
