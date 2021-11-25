@@ -10,7 +10,7 @@
             {
                 "type": "Button",
                 "label": "Contact Us",
-                "url": "mailto:",
+                "url": "mailto:hello@diversion.dev",
                 "altText": "Sign up",
                 "style": "primary"
             }
