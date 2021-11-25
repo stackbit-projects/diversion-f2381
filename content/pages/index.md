@@ -215,7 +215,8 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: >-
+        /images/RNNVovrSsfOOgd9PwEdmwkyqRBNJRmTY8GsIifEtC2pTTGcwkPRzR7HIw6nyL9dGbpxhgDr6Ovq7ggoNPY4QTjj46lzUveHGd7OjLgU=s2048.png
       altText: Hero image
     backgroundImage: {}
     styles:
