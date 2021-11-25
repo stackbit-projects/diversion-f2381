@@ -43,7 +43,7 @@ sections:
     type: QuoteSection
   - elementId: ''
     colors: colors-a
-    title: The Section Title
+    title: Diversion
     subtitle: ''
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
